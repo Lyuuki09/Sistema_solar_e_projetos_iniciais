@@ -1,0 +1,134 @@
+#a{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(226, 226, 226);
+    border:7px solid black;
+    border-radius: 20%;
+}
+
+#espac{
+    width: 2px;
+    height: 2px;
+    background-color: white;
+}
+
+#linha{
+    width: 7px;
+    height: 40px;
+    background-color: black;
+}
+
+#bolinha{
+    width: 40px;
+    height: 40px;
+    border-radius: 850%;
+    background-color: rgb(255, 0, 0);
+    border: 7px solid black;
+    position: relative;
+    top: 7px;
+}
+
+#bolinha2{
+    width: 10px;
+    height: 10px;
+    border-radius: 850%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: -30px;
+    right: -7px;
+
+}
+
+
+
+#olho{
+    width: 70px;
+    height: 50px;
+    background-image: linear-gradient(to bottom, #ff0000, #ff6600);
+    border: solid rgb(77, 77, 77) 7px;
+    position: relative;
+    top: -170px;
+    left: -70px;
+    border-radius: 30%;
+}
+
+#olho2 {
+    width: 70px;
+    height: 50px;
+    background-image: linear-gradient(to bottom, #ff0000, #ff6600);
+    border: solid rgb(77, 77, 77) 7px;
+    position: relative;
+    top: -235px;
+    left: 70px;
+    border-radius: 30%;
+}
+
+#o{
+    width: 50px;
+    height: 7px;
+    background-color: #5e5e5e;
+    position: relative;
+    bottom: 270px;
+}
+
+#boca{
+    width: 40px;
+    height: 7px;
+    position:relative;
+    top: -200px;
+    background-color: black;
+}
+
+#corpo{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(226, 226, 226);
+    border: solid 7px black;
+    position: absolute;
+    border-radius: 10px;
+    left: 828px;
+    top:319px;
+
+}
+
+#bracoe{
+    width: 50px;
+    height: 350px;
+    background-color: rgb(226, 226, 226);
+    border: solid 7px black;
+    position: absolute;
+    border-radius: 10px;
+    left: 760px;
+    top:319px;
+
+}
+
+#bracod{
+    width: 50px;
+    height: 350px;
+    background-color: rgb(226, 226, 226);
+    border: solid 7px black;
+    position: absolute;
+    border-radius: 10px;
+    left: 1095px;
+    top:319px;
+
+}
+
+#p {
+    border: 5px solid aqua;
+    width: 600px;
+    height: 100px;
+    border-radius: 100%;
+    margin-top: 270px;
+}
+
+#p2 {
+    border: 5px solid aqua;
+    width: 300px;
+    height: 50px;
+    border-radius: 100%;
+    top: 750px;
+    position: absolute;
+    left: 805px;
+}

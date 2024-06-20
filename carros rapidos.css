@@ -1,0 +1,114 @@
+#cima{
+    width: 150px;
+    height: 50px;
+    background-color: #FF0000;
+    position: relative;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    top: 7px;
+    position: relative;
+    left:5px;
+}
+
+#meio{
+    width: 250px;
+    height: 70px;
+    background-color: #FF0000;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#roda1{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    border: 10px solid black;
+    position: relative;
+    left: 80px;
+    top: -30px;
+}
+#roda2{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    border: 10px solid black;
+    position: relative;
+    right: 80px;
+    top: -83px;
+}
+
+#janela{
+    width: 110px;
+    height: 32px;
+    background-color: rgb(25, 240, 255);
+    position: relative;
+    left: 6px;
+    top:-212px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+#divisoria{
+    width: 11px;
+    height: 50px;
+    background-color: #ff0000;
+    position: relative;
+    left: 10px;
+    bottom: 250px;
+}
+
+#farol{
+    width: 20px;
+    height: 15px;
+    background-color: rgb(114, 0, 0);
+    position: relative;
+    bottom: 242px;
+    left: 115px;
+    border-radius: 20%;
+}
+
+
+
+#dianteiro{
+    width: 20px;
+    height: 15px;
+    background-color:yellow;
+    position: relative;
+    bottom: 265px;
+    left: -105px;
+    border-radius: 20%;
+}
+
+#dianteiro2{
+    width: 20px;
+    height: 15px;
+    background-color:yellow;
+    position: relative;
+    bottom: 280px;
+    left: -80px;
+    border-radius: 20%;
+}
+
+#macaneta{
+    width: 20px;
+    height: 5px;
+    background-color: darkgray;
+    position: relative;
+    top: -290px;
+    left: 5px;
+    border-radius: 5px;
+}
+
+#macaneta2{
+    width: 20px;
+    height: 5px;
+    background-color: darkgray;
+    position: relative;
+    top: -295px;
+    left: 65px;
+    border-radius: 5px;
+}
