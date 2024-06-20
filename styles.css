@@ -1,0 +1,104 @@
+
+
+#imagemsol{
+    background-image: url("canva/3.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemmercurio{
+    background-image: url("canva/5.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px; 
+}
+
+#imagemvenus{
+    background-image: url("canva/7.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemterra{
+    background-image: url("canva/9.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemlua{
+    background-image: url("canva/10.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemmarte{
+    background-image: url("canva/12.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemcinturao{
+    background-image: url("canva/Design sem nome (1).png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemjupter{
+    background-image: url("canva/15.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemsaturno{
+    background-image: url("canva/17.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemurano{
+    background-image: url("canva/19.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+#imagemnetuno{
+    background-image: url("canva/21.png");
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.988);
+    position: relative;
+    right: 13px;
+}
+
+.container2{
+    margin-top: 600px;
+}
