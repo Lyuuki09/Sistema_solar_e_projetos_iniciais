@@ -86,7 +86,7 @@
     border: solid 7px black;
     position: absolute;
     border-radius: 10px;
-    left: 828px;
+    left: 638px;
     top:319px;
 
 }
@@ -98,7 +98,7 @@
     border: solid 7px black;
     position: absolute;
     border-radius: 10px;
-    left: 760px;
+    left: 570px;
     top:319px;
 
 }
@@ -110,7 +110,7 @@
     border: solid 7px black;
     position: absolute;
     border-radius: 10px;
-    left: 1095px;
+    left: 905px;
     top:319px;
 
 }
@@ -130,5 +130,5 @@
     border-radius: 100%;
     top: 750px;
     position: absolute;
-    left: 805px;
+    left: 615px;
 }

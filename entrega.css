@@ -1,15 +1,49 @@
-/* styles.css */
-
-.botao {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    background-color: #007bff;
-    color: #fff;
-    text-decoration: none; /* Remove o sublinhado padrão de links */
-    border-radius: 5px;
+body{
+    background-image: url("fundo-de-natureza-minimalista-r17v20du803pf0x1.jpg");
 }
 
-.botao:hover {
-    background-color: #0056b3;
+h1{
+    font-size: 20px;
+}
+
+a img{
+    width: 20vw;
+    height: 20vh;
+    border-radius: 10px;
+    border-bottom: 10px;
+}
+
+a {
+    border: solid rgb(255, 255, 255) 3px;
+    font-size: 16px;
+    background-color: #bebebe;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    width: 28vw;
+    height: 28vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+}
+
+header{
+    
+    background-color: #7fb3cd;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 40px;
+}
+
+.container,.container2{
+    width: 98vw;
+    height: 50vh;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
 }
