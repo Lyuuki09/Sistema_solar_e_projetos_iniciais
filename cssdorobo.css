@@ -6,11 +6,6 @@
     border-radius: 20%;
 }
 
-#espac{
-    width: 2px;
-    height: 2px;
-    background-color: white;
-}
 
 #linha{
     width: 7px;
@@ -24,32 +19,16 @@
     border-radius: 850%;
     background-color: rgb(255, 0, 0);
     border: 7px solid black;
-    position: relative;
-    top: 7px;
 }
-
-#bolinha2{
-    width: 10px;
-    height: 10px;
-    border-radius: 850%;
-    background-color: rgb(255, 255, 255);
-    position: relative;
-    top: -30px;
-    right: -7px;
-
-}
-
-
 
 #olho{
     width: 70px;
     height: 50px;
     background-image: linear-gradient(to bottom, #ff0000, #ff6600);
     border: solid rgb(77, 77, 77) 7px;
-    position: relative;
-    top: -170px;
-    left: -70px;
     border-radius: 30%;
+    bottom: -20px;
+    position: relative;
 }
 
 #olho2 {
@@ -57,26 +36,26 @@
     height: 50px;
     background-image: linear-gradient(to bottom, #ff0000, #ff6600);
     border: solid rgb(77, 77, 77) 7px;
-    position: relative;
-    top: -235px;
-    left: 70px;
     border-radius: 30%;
+    bottom: -20px;
+    position: relative;
 }
 
 #o{
     width: 50px;
     height: 7px;
-    background-color: #5e5e5e;
-    position: relative;
-    bottom: 270px;
+    position: absolute;
+    left: -52px; 
+    bottom: 20px;
+    background-color: rgb(77, 77, 77);
 }
 
 #boca{
     width: 40px;
     height: 7px;
-    position:relative;
-    top: -200px;
     background-color: black;
+    position: relative;
+    bottom: 70px;
 }
 
 #corpo{
@@ -84,11 +63,7 @@
     height: 400px;
     background-color: rgb(226, 226, 226);
     border: solid 7px black;
-    position: absolute;
     border-radius: 10px;
-    left: 638px;
-    top:319px;
-
 }
 
 #bracoe{
@@ -96,11 +71,7 @@
     height: 350px;
     background-color: rgb(226, 226, 226);
     border: solid 7px black;
-    position: absolute;
     border-radius: 10px;
-    left: 570px;
-    top:319px;
-
 }
 
 #bracod{
@@ -108,11 +79,7 @@
     height: 350px;
     background-color: rgb(226, 226, 226);
     border: solid 7px black;
-    position: absolute;
     border-radius: 10px;
-    left: 905px;
-    top:319px;
-
 }
 
 #p {
@@ -120,7 +87,6 @@
     width: 600px;
     height: 100px;
     border-radius: 100%;
-    margin-top: 270px;
 }
 
 #p2 {
@@ -128,7 +94,21 @@
     width: 300px;
     height: 50px;
     border-radius: 100%;
-    top: 750px;
-    position: absolute;
-    left: 615px;
+}
+
+#a{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+    display: flex;
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
